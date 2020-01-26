@@ -71,9 +71,13 @@ form{
     width: 90%;
 }
 
-.submit-btn{
-    background-color: 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
+#submit-btn{
+    color: azure;
+   background-color: hsl(0, 93%, 68%);
+   border-radius: 45%;
+   width: 2rem;
 }
+
 .hero-image img {
     height: 100%;
     width: 100%;
